@@ -1,6 +1,22 @@
+body {
+    
+    background-image: url('../img/backgorund.png');
+ 
+    background-size: cover; 
+    background-position: center;
+    
+    background-color: #f0f0f0; /
+  }
+
 .imagen-personal {
     border-radius: 50%; 
     width: 400px; 
     height: 470px; 
     overflow: hidden; 
+}
+
+.sobre-mi {
+    padding: 20px;
+    width:  600px;
+    height: 400px;
 }
