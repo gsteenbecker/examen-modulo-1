@@ -24,3 +24,16 @@ body {
 .icono-escuela {
     margin-top: 80px;
 }
+
+.texto-formulario {
+    font-size: 30px;
+}
+
+footer {
+    height: 150px;
+    text-align: center;
+}
+
+.footer {
+    padding: 60px;
+}
